@@ -1,0 +1,55 @@
+!!General
+
+border.width: 1
+border.color: #111111
+*.text.justify: left
+
+!!Menu
+
+menu.overlap: 0
+menu.border.color: #111111
+
+menu.title.bg: flat splitvertical gradient
+menu.title.bg.color: #105ab2
+menu.title.bg.colorTo: #15539e
+menu.title.text.color: #eeeeee
+
+menu.items.bg: flat solid
+menu.items.bg.color: #333333
+
+menu.items.text.color: #eeeeee
+menu.items.disabled.text.color: #5d5d5d
+
+menu.items.active.bg: flat splitvertical gradient
+menu.items.active.bg.color: #105ab2
+menu.items.active.bg.colorTo: #15539e
+menu.items.active.text.color: #eeeeee
+
+!!Window
+
+window.client.padding.width: 0
+window.client.padding.height: 0
+window.handle.width: 7
+
+window.*.title.bg: flat splitvertical gradient
+window.*.label.bg: parentrelative
+window.*.label.text.color: #eeeeee
+
+window.*.button.*.bg: parentrelative
+window.*.button.*.image.color: #eeeeee
+window.*.button.disabled.image.color: #5d5d5d
+
+window.*.handle.bg: flat solid
+window.*.grip.bg: parentrelative
+
+!!Active
+
+window.active.title.bg.color: #105ab2
+window.active.title.bg.colorTo: #15539e
+window.active.handle.bg.color: #15539e
+
+!!Inactive
+
+window.inactive.title.bg.color: #272727
+window.inactive.title.bg.colorTo: #222222
+window.inactive.handle.bg.color: #272727
