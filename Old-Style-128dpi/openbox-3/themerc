@@ -33,10 +33,8 @@ window.handle.width: 7
 
 window.*.title.bg: flat splitvertical gradient
 window.*.label.bg: parentrelative
-window.*.label.text.color: #eeeeee
 
 window.*.button.*.bg: parentrelative
-window.*.button.*.image.color: #eeeeee
 window.*.button.disabled.image.color: #5d5d5d
 
 window.*.handle.bg: flat solid
@@ -44,12 +42,16 @@ window.*.grip.bg: parentrelative
 
 !!Active
 
+window.active.label.text.color: #eeeeee
+window.active.button.*.image.color: #eeeeee
 window.active.title.bg.color: #105ab2
 window.active.title.bg.colorTo: #15539e
 window.active.handle.bg.color: #15539e
 
 !!Inactive
 
+window.inactive.label.text.color: #aaaaaa
+window.inactive.button.*.image.color: #aaaaaa
 window.inactive.title.bg.color: #272727
 window.inactive.title.bg.colorTo: #222222
 window.inactive.handle.bg.color: #272727
