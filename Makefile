@@ -14,3 +14,4 @@ uninstall:
 	rm -rf $(DESTDIR)/usr/share/themes/Old-Style-light
 	rm -rf $(DESTDIR)/usr/share/themes/Old-Style-light-128dpi
 	rm -rf $(DESTDIR)/usr/share/Kvantum/Old-Style
+	rm -rf $(DESTDIR)/usr/share/Kvantum/Old-Style-128dpi
