@@ -1,7 +1,7 @@
 gtk-auto-mnemonics = 1
 
 gtk_color_scheme = "white:#ffffff"
-gtk_color_scheme = "light:#cccccc"
+gtk_color_scheme = "light:#c0c0c0"
 gtk_color_scheme = "blue:#15539e"
 gtk_color_scheme = "black:#000000"
 

@@ -30,20 +30,20 @@ toolbar_interior_spacing=2
 toolbutton_style=1
 
 [GeneralColors]
-dark.color=#111111
-highlight.color=#15539e
-alt.base.color=#1b1b1b
-base.color=#222222
-button.color=#333333
-window.color=#333333
-mid.color=#444444
-mid.light.color=#555555
-disabled.text.color=#5d5d5d
-light.color=#666666
-button.text.color=#eeeeee
-text.color=#eeeeee
-tooltip.text.color=#eeeeee
-window.text.color=#eeeeee
+dark.color=#151515
+highlight.color=#184d8d
+alt.base.color=#202020
+base.color=#252525
+button.color=#404040
+window.color=#404040
+mid.color=#505050
+mid.light.color=#606060
+disabled.text.color=#606060
+light.color=#707070
+button.text.color=#f0f0f0
+text.color=#f0f0f0
+tooltip.text.color=#f0f0f0
+window.text.color=#f0f0f0
 highlight.text.color=white
 
 [PanelButtonCommand]
@@ -65,10 +65,10 @@ text.margin.left=2
 text.margin.right=2
 text.margin.top=2
 text.margin.bottom=2
-text.focus.color=#eeeeee
-text.normal.color=#eeeeee
-text.press.color=#eeeeee
-text.toggle.color=#eeeeee
+text.focus.color=#f0f0f0
+text.normal.color=#f0f0f0
+text.press.color=#f0f0f0
+text.toggle.color=#f0f0f0
 
 [PanelButtonTool]
 inherits=PanelButtonCommand
@@ -138,9 +138,9 @@ indicator.element=arrow
 
 [ToolboxTab]
 inherits=PanelButtonCommand
-text.normal.color=#888888
-text.focus.color=#aaaaaa
-text.toggle.color=#eeeeee
+text.normal.color=#909090
+text.focus.color=#b0b0b0
+text.toggle.color=#f0f0f0
 
 [Tab]
 inherits=PanelButtonCommand
@@ -148,9 +148,9 @@ indicator.element=tab
 interior.element=button
 frame.element=button
 text.bold=true
-text.normal.color=#888888
-text.focus.color=#aaaaaa
-text.toggle.color=#eeeeee
+text.normal.color=#909090
+text.focus.color=#b0b0b0
+text.toggle.color=#f0f0f0
 
 [TabFrame]
 inherits=PanelButtonCommand
@@ -275,7 +275,7 @@ inherits=PanelButtonCommand
 frame=false
 indicator.element=mdi
 interior.element=titlebar
-text.normal.color=#888888
+text.normal.color=#909090
 text.bold=true
 
 [ComboBox]

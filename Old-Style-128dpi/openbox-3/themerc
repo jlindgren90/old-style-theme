@@ -1,29 +1,29 @@
 !!General
 
 border.width: 1
-border.color: #111111
+border.color: #181818
 *.text.justify: left
 
 !!Menu
 
 menu.overlap: 0
-menu.border.color: #111111
+menu.border.color: #181818
 
 menu.title.bg: flat splitvertical gradient
-menu.title.bg.color: #105ab2
-menu.title.bg.colorTo: #15539e
-menu.title.text.color: #eeeeee
+menu.title.bg.color: #184d8d
+menu.title.bg.colorTo: #1b467b
+menu.title.text.color: #f0f0f0
 
 menu.items.bg: flat solid
-menu.items.bg.color: #333333
+menu.items.bg.color: #404040
 
-menu.items.text.color: #eeeeee
-menu.items.disabled.text.color: #5d5d5d
+menu.items.text.color: #f0f0f0
+menu.items.disabled.text.color: #606060
 
 menu.items.active.bg: flat splitvertical gradient
-menu.items.active.bg.color: #105ab2
-menu.items.active.bg.colorTo: #15539e
-menu.items.active.text.color: #eeeeee
+menu.items.active.bg.color: #184d8d
+menu.items.active.bg.colorTo: #1b467b
+menu.items.active.text.color: #f0f0f0
 
 !!Window
 
@@ -33,23 +33,23 @@ window.handle.width: 7
 
 window.*.title.bg: flat splitvertical gradient
 window.*.label.bg: parentrelative
-window.*.label.text.color: #eeeeee
+window.*.label.text.color: #f0f0f0
 
 window.*.button.*.bg: parentrelative
-window.*.button.*.image.color: #eeeeee
-window.*.button.disabled.image.color: #5d5d5d
+window.*.button.*.image.color: #f0f0f0
+window.*.button.disabled.image.color: #606060
 
 window.*.handle.bg: flat solid
 window.*.grip.bg: parentrelative
 
 !!Active
 
-window.active.title.bg.color: #105ab2
-window.active.title.bg.colorTo: #15539e
-window.active.handle.bg.color: #15539e
+window.active.title.bg.color: #184d8d
+window.active.title.bg.colorTo: #1b467b
+window.active.handle.bg.color: #1b467b
 
 !!Inactive
 
-window.inactive.title.bg.color: #272727
-window.inactive.title.bg.colorTo: #222222
-window.inactive.handle.bg.color: #272727
+window.inactive.title.bg.color: #313131
+window.inactive.title.bg.colorTo: #2d2d2d
+window.inactive.handle.bg.color: #2d2d2d
