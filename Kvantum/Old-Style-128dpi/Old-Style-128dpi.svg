@@ -424,25 +424,20 @@
 <rect width="10" x="422.5" y="-610" rx="1.5" height="3" style="fill:#eeeeec;color:#000" transform="scale(1,-1)"/>
 </g>
 <g id="tabbarframe-normal-bottom" transform="matrix(1,0,0,1.25,115,-432.50016)">
-<path style="fill:#1b1b1b;fill-rule:evenodd" d="m 29,989.2 v 0.8 h 32 v -0.8 z"/>
-<path style="fill:#282828;fill-rule:evenodd" d="m 29,986 h 32 v 3.2 H 29 Z"/>
+<path style="fill:#303030;fill-rule:evenodd" d="m 29,986 h 32 v 3.2 H 29 Z"/>
 </g>
 <g id="tabbarframe-normal-top" transform="matrix(1,0,0,0.75,115,52.5)">
-<path style="fill:#1b1b1b;fill-rule:evenodd" d="m 29,950 v 1.3332 H 61 V 950 Z"/>
-<path style="fill:#282828;fill-rule:evenodd" d="M 61,954 H 29 v -2.6667 h 32 z"/>
+<path style="fill:#303030;fill-rule:evenodd" d="M 61,954 H 29 v -2.6667 h 32 z"/>
 </g>
-<path style="fill:#282828;fill-rule:evenodd" id="tabbarframe-normal" d="m 144,800 0,-32 32,0 0,32 -32,0 z"/>
+<path style="fill:#303030;fill-rule:evenodd" id="tabbarframe-normal" d="m 144,800 0,-32 32,0 0,32 -32,0 z"/>
 <g id="tabbarframe-normal-left" transform="matrix(0.75,0,0,1,122.25,-186)">
-<path style="fill:#1b1b1b;fill-rule:evenodd" d="m 25,954 v 32 h 1.33333 v -32 z "/>
-<path style="fill:#282828;fill-rule:evenodd" d="m 29,954 v 32 h -2.66666 v -32 z "/>
+<path style="fill:#303030;fill-rule:evenodd" d="m 29,954 v 32 h -2.66666 v -32 z "/>
 </g>
 <g id="tabbarframe-normal-topleft">
-<path style="fill:#282828;fill-rule:evenodd" d="m 142,768 v -2 h 2 v 2 z"/>
-<path style="fill:#1b1b1b" d="m 144,765 h -3 v 3 h 1 v -2 h 2 z"/>
+<path style="fill:#303030;fill-rule:evenodd" d="m 142,768 v -2 h 2 v 2 z"/>
 </g>
 <g id="tabbarframe-normal-bottomleft">
-<path style="fill:#282828;fill-rule:evenodd" d="m 144,804 h -2 v -4 h 2 z"/>
-<path style="fill:#1b1b1b" d="m 141,800 v 5 h 3 v -1 h -2 v -4 z"/>
+<path style="fill:#303030;fill-rule:evenodd" d="m 144,804 h -2 v -4 h 2 z"/>
 </g>
 <use width="100%" height="100%" xlink:href="#tabbarframe-normal-topleft" id="tabbarframe-normal-topright" transform="matrix(-1,0,0,1,320,0)"/>
 <use width="100%" height="100%" xlink:href="#tabbarframe-normal-bottomleft" id="tabbarframe-normal-bottomright" transform="matrix(-1,0,0,1,320,0)"/>
@@ -1142,30 +1137,6 @@
 <path style="fill:#1b1b1b;fill-rule:evenodd" id="menubar-normal-inactive-bottomright" d="m 499,678 h 5 v 1 h -5 z"/>
 <use width="100%" height="100%" xlink:href="#menubar-normal-inactive-left" id="menubar-normal-inactive-right" transform="translate(35)"/>
 <use width="100%" height="100%" style="opacity:.25" xlink:href="#tab-close-pressed" id="tab-close-normal-inactive" transform="translate(0,18)"/>
-<g id="tabbarframe-normal-inactive-bottom" transform="matrix(1,0,0,1.25,435,-432.50016)">
-<path style="fill:#202020;fill-rule:evenodd" d="m 29,989.2 v 0.8 h 32 v -0.8 z"/>
-<path style="fill:#2e2e2e;fill-rule:evenodd" d="m 29,986 h 32 v 3.2 H 29 Z"/>
-</g>
-<g id="tabbarframe-normal-inactive-top" transform="matrix(1,0,0,0.75,435,52.5)">
-<path style="fill:#202020;fill-rule:evenodd" d="m 29,950 v 1.3332 H 61 V 950 Z"/>
-<path style="fill:#2e2e2e;fill-rule:evenodd" d="M 61,954 H 29 v -2.6667 h 32 z"/>
-</g>
-<path style="fill:#2e2e2e;fill-rule:evenodd" id="tabbarframe-normal-inactive" d="m 464,800 v -32 h 32 v 32 z"/>
-<g id="tabbarframe-normal-inactive-left" transform="matrix(0.75,0,0,1,442.25,-186)">
-<path style="fill:#202020;fill-rule:evenodd" d="m 25,954 v 32 h 1.33333 v -32 z "/>
-<path style="fill:#2e2e2e;fill-rule:evenodd" d="m 29,954 v 32 h -2.66666 v -32 z "/>
-</g>
-<g id="tabbarframe-normal-inactive-topleft" transform="translate(320)">
-<path style="fill:#2e2e2e;fill-rule:evenodd" d="m 142,768 v -2 h 2 v 2 z"/>
-<path style="fill:#202020" d="m 144,765 h -3 v 3 h 1 v -2 h 2 z"/>
-</g>
-<g id="tabbarframe-normal-inactive-bottomleft" transform="translate(320)">
-<path style="fill:#2e2e2e;fill-rule:evenodd" d="m 144,804 h -2 v -4 h 2 z"/>
-<path style="fill:#202020" d="m 141,800 v 5 h 3 v -1 h -2 v -4 z"/>
-</g>
-<use width="100%" height="100%" xlink:href="#tabbarframe-normal-inactive-left" id="tabbarframe-normal-inactive-right" transform="matrix(-1,0,0,1,960,0)"/>
-<use width="100%" height="100%" xlink:href="#tabbarframe-normal-inactive-topleft" id="tabbarframe-normal-inactive-topright" transform="matrix(-1,0,0,1,960,0)"/>
-<use width="100%" height="100%" xlink:href="#tabbarframe-normal-inactive-bottomleft" id="tabbarframe-normal-inactive-bottomright" transform="matrix(-1,0,0,1,960,0)"/>
 <g id="button-normal-inactive-left" transform="matrix(0.8,0,0,1,-71.5,-36.251508)">
 <path style="fill:#353535;fill-rule:evenodd" d="M 28.75,81.2514 V 48.7516 h -7.5 v 32.5 z"/>
 <path style="fill:#1e1e1e;color:#000;stroke-width:.707" d="m 21.25,48.7516 v 32.5 h 1.24988 v -32.5 z "/>
