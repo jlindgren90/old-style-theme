@@ -434,12 +434,6 @@
 <path style="opacity:0;fill-rule:evenodd" id="floating-button-focused" d="m 63,800 0,-32 32,0 0,32 -32,0 z"/>
 <path style="opacity:0;fill-rule:evenodd" id="floating-button-toggled" d="m 103,800 0,-32 32,0 0,32 -32,0 z"/>
 <use width="100%" height="100%" xlink:href="#tabbarframe-normal-left" id="tabbarframe-normal-right" transform="matrix(-1,0,0,1,320,0)"/>
-<path style="fill:url(#linearGradient5047);fill-rule:evenodd" id="menubar-normal" d="m 265,640 h 30 v 30 h -30 z"/>
-<use width="100%" height="100%" xlink:href="#menubar-normal" id="menubar-normal-left" transform="matrix(0.16666667,0,0,1,215.83333,0)"/>
-<use width="100%" height="100%" xlink:href="#menubar-normal" id="menubar-normal-right" transform="matrix(0.16666667,0,0,1,250.83333,0)"/>
-<path style="fill:#080808;fill-rule:evenodd" id="menubar-normal-bottom" d="m 265,670 h 30 v 1 h -30 z"/>
-<path style="fill:#080808;fill-rule:evenodd" id="menubar-normal-bottomleft" d="m 260,670 h 5 v 1 h -5 z"/>
-<path style="fill:#080808;fill-rule:evenodd" id="menubar-normal-bottomright" d="m 295,670 h 5 v 1 h -5 z"/>
 <circle cx="243" cy="588" style="stroke:#fff;fill-opacity:0;color:#000;stroke-width:1.2" id="menu-radio-normal" r="7.4"/>
 <g id="menu-radio-checked-normal">
 <circle cx="283" cy="588" style="stroke:#fff;fill-opacity:0;color:#000;stroke-width:1.2" r="7.4"/>
