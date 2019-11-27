@@ -10,8 +10,8 @@ menu.overlap: 0
 menu.border.color: #181818
 
 menu.title.bg: flat splitvertical gradient
-menu.title.bg.color: #184d8d
-menu.title.bg.colorTo: #1b467b
+menu.title.bg.color: #134a8c
+menu.title.bg.colorTo: #114380
 menu.title.text.color: #f0f0f0
 
 menu.items.bg: flat solid
@@ -21,8 +21,8 @@ menu.items.text.color: #f0f0f0
 menu.items.disabled.text.color: #606060
 
 menu.items.active.bg: flat splitvertical gradient
-menu.items.active.bg.color: #184d8d
-menu.items.active.bg.colorTo: #1b467b
+menu.items.active.bg.color: #134a8c
+menu.items.active.bg.colorTo: #114380
 menu.items.active.text.color: #f0f0f0
 
 !!Window
@@ -44,12 +44,12 @@ window.*.grip.bg: parentrelative
 
 !!Active
 
-window.active.title.bg.color: #184d8d
-window.active.title.bg.colorTo: #1b467b
-window.active.handle.bg.color: #1b467b
+window.active.title.bg.color: #134a8c
+window.active.title.bg.colorTo: #114380
+window.active.handle.bg.color: #134a8c
 
 !!Inactive
 
-window.inactive.title.bg.color: #313131
+window.inactive.title.bg.color: #323232
 window.inactive.title.bg.colorTo: #2d2d2d
-window.inactive.handle.bg.color: #2d2d2d
+window.inactive.handle.bg.color: #323232
