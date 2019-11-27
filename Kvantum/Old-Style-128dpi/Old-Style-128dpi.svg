@@ -193,7 +193,23 @@
 <use width="450" height="1380" id="mdi-shade-focused" xlink:href="#mdi-maximize-focused" transform="matrix(1,0,0,-1,315.64052,911.09012)"/>
 <rect width="25" x="405" y="70" height="25" style="opacity:0;fill:#7b7b7b" id="button-default-indicator"/>
 <path style="fill:#15539e" id="menubaritem-pressed-bottom" d="m 275,680 h 20 v 5 h -20 z"/>
-<path style="fill:#15539e" id="menubaritem-toggled-bottom" d="m 340,680 h 20 v 5 h -20 z"/>
+<use width="100%" height="100%" id="menubaritem-pressed" xlink:href="#menubaritem-pressed-bottom"/>
+<use width="100%" height="100%" id="menubaritem-pressed-left" xlink:href="#menubaritem-pressed-bottom"/>
+<use width="100%" height="100%" id="menubaritem-pressed-right" xlink:href="#menubaritem-pressed-bottom"/>
+<use width="100%" height="100%" id="menubaritem-pressed-top" xlink:href="#menubaritem-pressed-bottom"/>
+<use width="100%" height="100%" id="menubaritem-pressed-topleft" xlink:href="#menubaritem-pressed-bottom"/>
+<use width="100%" height="100%" id="menubaritem-pressed-topright" xlink:href="#menubaritem-pressed-bottom"/>
+<use width="100%" height="100%" id="menubaritem-pressed-bottomleft" xlink:href="#menubaritem-pressed-bottom"/>
+<use width="100%" height="100%" id="menubaritem-pressed-bottomright" xlink:href="#menubaritem-pressed-bottom"/>
+<use width="100%" height="100%" style="opacity:.2" id="menubaritem-toggled" xlink:href="#menubaritem-pressed-bottom"/>
+<use width="100%" height="100%" style="opacity:.2" id="menubaritem-toggled-left" xlink:href="#menubaritem-pressed-bottom"/>
+<use width="100%" height="100%" style="opacity:.2" id="menubaritem-toggled-right" xlink:href="#menubaritem-pressed-bottom"/>
+<use width="100%" height="100%" style="opacity:.2" id="menubaritem-toggled-top" xlink:href="#menubaritem-pressed-bottom"/>
+<use width="100%" height="100%" style="opacity:.2" id="menubaritem-toggled-topleft" xlink:href="#menubaritem-pressed-bottom"/>
+<use width="100%" height="100%" style="opacity:.2" id="menubaritem-toggled-topright" xlink:href="#menubaritem-pressed-bottom"/>
+<use width="100%" height="100%" style="opacity:.2" id="menubaritem-toggled-bottom" xlink:href="#menubaritem-pressed-bottom"/>
+<use width="100%" height="100%" style="opacity:.2" id="menubaritem-toggled-bottomleft" xlink:href="#menubaritem-pressed-bottom"/>
+<use width="100%" height="100%" style="opacity:.2" id="menubaritem-toggled-bottomright" xlink:href="#menubaritem-pressed-bottom"/>
 <g style="opacity:.8;fill:#323232;fill-rule:evenodd" id="iarrow-plus-normal" transform="matrix(1.2445079,1.2445079,-1.2445079,1.2445079,129.8342,259.50532)">
 <path style="fill:#eeeeec;stroke-width:1.574" d="m 16,239 v 9 H 7 v 4 h 9 v 9 h 4 v -9 h 9 v -4 h -9 v -9 z" transform="matrix(0.40176523,-0.40176523,0.40176523,0.40176523,-156.42308,-52.097347)"/>
 </g>
@@ -377,10 +393,6 @@
 <use width="450" height="1230" xlink:href="#scrollbarslider-normal-topleft" id="scrollbarslider-normal-topright" transform="matrix(-1,0,0,1,454,0)"/>
 <use width="450" height="1230" xlink:href="#scrollbarslider-normal-topleft" id="scrollbarslider-normal-bottomleft" transform="matrix(1,0,0,-1,0,1670.5007)"/>
 <use width="450" height="1230" xlink:href="#scrollbarslider-normal-topleft" id="scrollbarslider-normal-bottomright" transform="matrix(-1,0,0,-1,454,1670.5007)"/>
-<path style="fill:#15539e" id="menubaritem-pressed-bottomleft" d="m 255,680 h 20 v 5 h -20 z"/>
-<path style="fill:#15539e" id="menubaritem-pressed-bottomright" d="m 295,680 h 20 v 5 h -20 z"/>
-<path style="fill:#15539e" id="menubaritem-toggled-bottomleft" d="m 320,680 h 20 v 5 h -20 z"/>
-<path style="fill:#15539e" id="menubaritem-toggled-bottomright" d="m 360,680 h 20 v 5 h -20 z"/>
 <path style="fill:#383839;fill-rule:evenodd;stroke:url(#linearGradient6022)" id="slidercursor-focused" d="m 151.2118,609 c -3.0458,2.5 -6.42343,8.49982 -12.1428,8.49982 -5.71931,0 -8.57265,-4 -8.56881,-8.49982 0.003,-4.50051 2.8495,-8.4998 8.56881,-8.4998 5.71936,0 9.09699,6 12.1428,8.4998 z "/>
 <use width="100%" height="100%" xlink:href="#slidercursor-focused" id="slidercursor-pressed" transform="translate(35,0)"/>
 <path style="fill:#323232;fill-rule:evenodd;stroke:#1b1b1b" id="slidercursor-disabled" d="m 221.2118,609 c -3.0458,2.5 -6.42344,8.49983 -12.1428,8.49983 -5.7193,0 -8.57265,-4 -8.56882,-8.49983 0.003,-4.50052 2.84952,-8.49981 8.56882,-8.49981 5.71936,0 9.097,6 12.1428,8.49981 z "/>
