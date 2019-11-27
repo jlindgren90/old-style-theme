@@ -10,11 +10,9 @@ combo_focus_rect=true
 combo_menu=true
 dialog_button_layout=2
 hide_combo_checkboxes=true
-joined_inactive_tabs=false
 large_icon_size=48
 layout_spacing=7
 left_tabs=true
-mirror_doc_tabs=true
 no_inactiveness=true
 progressbar_thickness=4
 scroll_arrows=false
@@ -153,19 +151,19 @@ frame.element=tab
 text.normal.color=#909090
 text.focus.color=#b0b0b0
 text.toggle.color=#f0f0f0
-frame.top=4
-frame.bottom=4
-frame.left=4
-frame.right=4
+frame.top=1
+frame.bottom=1
+frame.left=1
+frame.right=1
 
 [TabFrame]
 inherits=PanelButtonCommand
 frame.element=tabframe
 interior.element=tabframe
-frame.top=4
-frame.bottom=4
-frame.left=4
-frame.right=4
+frame.top=1
+frame.bottom=1
+frame.left=1
+frame.right=1
 
 [TreeExpander]
 inherits=PanelButtonCommand
@@ -314,12 +312,12 @@ text.margin=0
 [TabBarFrame]
 inherits=GenericFrame
 frame=true
-frame.element=tabBarFrame
+frame.element=tabbarframe
 interior=false
-frame.top=4
-frame.bottom=4
-frame.left=4
-frame.right=4
+frame.top=1
+frame.bottom=1
+frame.left=1
+frame.right=1
 
 [ToolTip]
 inherits=GenericFrame
