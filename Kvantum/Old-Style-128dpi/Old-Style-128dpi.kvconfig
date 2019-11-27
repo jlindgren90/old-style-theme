@@ -1,7 +1,8 @@
 [%General]
 author=Tsu Jan
 comment=A dark theme with a Gnome like look and feel
-attach_active_tab=false
+active_tab_overlap=1
+attach_active_tab=true
 button_icon_size=24
 center_toolbar_handle=true
 check_size=18
@@ -9,10 +10,11 @@ combo_focus_rect=true
 combo_menu=true
 dialog_button_layout=2
 hide_combo_checkboxes=true
+joined_inactive_tabs=false
 large_icon_size=48
 layout_spacing=7
 left_tabs=true
-mirror_doc_tabs=false
+mirror_doc_tabs=true
 no_inactiveness=true
 progressbar_thickness=4
 scroll_arrows=false
@@ -146,17 +148,24 @@ text.toggle.color=#f0f0f0
 [Tab]
 inherits=PanelButtonCommand
 indicator.element=tab
-interior.element=button
-frame.element=button
-text.bold=true
+interior.element=tab
+frame.element=tab
 text.normal.color=#909090
 text.focus.color=#b0b0b0
 text.toggle.color=#f0f0f0
+frame.top=4
+frame.bottom=4
+frame.left=4
+frame.right=4
 
 [TabFrame]
 inherits=PanelButtonCommand
-frame=false
-interior=false
+frame.element=tabframe
+interior.element=tabframe
+frame.top=4
+frame.bottom=4
+frame.left=4
+frame.right=4
 
 [TreeExpander]
 inherits=PanelButtonCommand
@@ -303,11 +312,14 @@ frame.bottom=4
 text.margin=0
 
 [TabBarFrame]
-inherits=PanelButtonCommand
+inherits=GenericFrame
 frame=true
-frame.element=tabbarframe
-interior=true
-interior.element=tabbarframe
+frame.element=tabBarFrame
+interior=false
+frame.top=4
+frame.bottom=4
+frame.left=4
+frame.right=4
 
 [ToolTip]
 inherits=GenericFrame
