@@ -209,9 +209,6 @@
 <rect width="7" x="686.5" y="-229.5" height="9" style="opacity:0;fill:#141414" transform="rotate(90)"/>
 <path style="fill:#15539e" d="m 227.2385,689 h -2.2462 v 2 h 2.2462 z m -4.4924,0 H 220.5 v 2 h 2.2461 z"/>
 </g>
-<rect width="5" x="175" y="820" rx="2.5" height="32" style="fill:url(#linearGradient4622)" id="splitter-grip-normal"/>
-<rect width="5" x="185" y="820" rx="2.5" height="32" style="fill:url(#linearGradient2140)" id="splitter-grip-focused"/>
-<use width="450" height="1380" id="splitter-grip-pressed" xlink:href="#splitter-grip-focused" transform="translate(10,0)"/>
 <g style="fill:#fff" id="flat-arrow-down-normal" transform="rotate(180,27,464.74649)">
 <rect width="24" x="-607.49298" y="8" height="24" style="opacity:0" transform="rotate(-90)"/>
 <path d="m 8.5,600.493 11.5,-12 11.5,12 z "/>
@@ -1007,6 +1004,8 @@
 <use xlink:href="#highlight-color" style="opacity:.25" id="menubaritem-toggled-bottom"/>
 <use xlink:href="#highlight-color" style="opacity:.25" id="menubaritem-toggled-bottomleft"/>
 <use xlink:href="#highlight-color" style="opacity:.25" id="menubaritem-toggled-bottomright"/>
+
+<use xlink:href="#gray5-color" id="splitter-grip-normal"/>
 
 <use xlink:href="#gray5-color" id="floating-tab-normal"/>
 
