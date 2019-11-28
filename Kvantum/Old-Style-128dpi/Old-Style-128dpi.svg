@@ -494,14 +494,14 @@
 <use width="100%" height="100%" xlink:href="#button-focused-topleft" id="button-focused-topright" transform="matrix(-1,0,0,1,191.5,0)"/>
 <use width="100%" height="100%" xlink:href="#button-focused-bottomleft" id="button-focused-bottomright" transform="matrix(-1,0,0,1,191.5,0)"/>
 <g id="lineedit-normal-topleft">
-<path style="fill:#2d2d2d" d="m 393.5,6.5001 c -3.04768,0 -6,2.95228 -6,6 h 6 z "/>
+<path style="fill:#282828" d="m 393.5,6.5001 c -3.04768,0 -6,2.95228 -6,6 h 6 z "/>
 <path style="fill:#1b1b1b;color:#000" d="m 393.5,6.5001 -1,-.0001 c -2.75,-0.0003648 -5,2.25 -5,5 l .0001,1 h 0.99991 v -1 c 0,-2.25 1.75,-4 4,-4 h 1 z "/>
 </g>
 <g id="lineedit-normal-top">
-<path style="fill:#2d2d2d" d="m 393.5002,12.5 h 32.4998 v -6 h -32.5 z "/>
+<path style="fill:#282828" d="m 393.5002,12.5 h 32.4998 v -6 h -32.5 z "/>
 <path style="fill:#1b1b1b;color:#000" d="m 426,6.5 h -32.5 v 1 h 32.5 z "/>
 </g>
-<path style="fill:#2d2d2d" id="lineedit-normal" d="M 393.5,12.5 V 45 H 426 V 12.5 Z"/>
+<path style="fill:#282828" id="lineedit-normal" d="M 393.5,12.5 V 45 H 426 V 12.5 Z"/>
 <use width="100%" height="100%" xlink:href="#lineedit-normal-top" id="lineedit-normal-left" transform="rotate(-90,409.74998,28.750015)"/>
 <use width="100%" height="100%" xlink:href="#lineedit-normal-top" id="lineedit-normal-right" transform="rotate(90,409.75001,28.750025)"/>
 <use width="100%" height="100%" xlink:href="#lineedit-normal-topleft" id="lineedit-normal-topright" transform="matrix(-1,0,0,1,819.5,-1.332e-4)"/>
@@ -516,12 +516,12 @@
 </g>
 <g id="lineedit-normal-bottomleft" transform="translate(376,0)">
 <path style="opacity:.001;paint-order:normal;fill:#fff" d="m 11.5,45 h 6 v 6 h -6 z"/>
-<path style="fill:#2d2d2d" d="m 17.5,50 c -3.04768,0 -6,-1.95241 -6,-5 h 6 z "/>
+<path style="fill:#282828" d="m 17.5,50 c -3.04768,0 -6,-1.95241 -6,-5 h 6 z "/>
 <path style="fill:url(#linearGradient1841);color:#000" d="m 16.5,50 c -3,0 -5,-2.25 -5,-5 h 1 c 0,2.25 1.5,4 4,4 h 1 v 1 z "/>
 </g>
 <g id="lineedit-normal-bottom" transform="translate(376,0)">
 <path style="opacity:.001;fill:#fff" d="m 17.5002,45 h 32.4998 v 6 h -32.5 z "/>
-<path style="fill:#2d2d2d" d="m 17.5002,45 h 32.4998 v 5 h -32.5 z "/>
+<path style="fill:#282828" d="m 17.5002,45 h 32.4998 v 5 h -32.5 z "/>
 <path style="fill:#090909;color:#000" d="M 50,50 H 17.5 V 49 H 50 Z"/>
 </g>
 <use width="100%" height="100%" xlink:href="#lineedit-normal-bottomleft" id="lineedit-normal-bottomright" transform="matrix(-1,0,0,1,819.5,9.2e-5)"/>
@@ -530,21 +530,21 @@
 <path style="fill:#1b1b1b" d="m 125,100 h 1 v 2 h -1 z"/>
 </g>
 <g id="lineedit-focused-topleft" transform="translate(-50)">
-<path style="fill:#2d2d2d" d="m 393.5,6.5001 c -3.04768,0 -6,2.95228 -6,6 h 6 z "/>
+<path style="fill:#282828" d="m 393.5,6.5001 c -3.04768,0 -6,2.95228 -6,6 h 6 z "/>
 <path style="fill:#15539e;color:#000" d="m 393.5,6.5001 -1,-.0001 c -2.75,-0.0003648 -5,2.25 -5,5 l .0001,1 h 1.49991 v -1 c 0,-1.99588 1.48382,-3.5 3.5,-3.5 h 1 z "/>
 </g>
 <g id="lineedit-focused-top" transform="translate(-50)">
-<path style="fill:#2d2d2d" d="m 393.5002,12.5 h 32.4998 v -6 h -32.5 z "/>
+<path style="fill:#282828" d="m 393.5002,12.5 h 32.4998 v -6 h -32.5 z "/>
 <path style="fill:#15539e;color:#000" d="m 426,6.5 h -32.5 V 8 h 32.5 z"/>
 </g>
 <g id="lineedit-focused-bottomleft" transform="translate(326,0)">
 <path style="opacity:.001;paint-order:normal;fill:#fff" d="m 11.5,45 h 6 v 6 h -6 z"/>
-<path style="fill:#2d2d2d" d="m 17.5,50 c -3.04768,0 -6,-1.95241 -6,-5 h 6 z "/>
+<path style="fill:#282828" d="m 17.5,50 c -3.04768,0 -6,-1.95241 -6,-5 h 6 z "/>
 <path style="fill:#15539e;color:#000" d="m 16.5,50 c -3,0 -5,-2.25 -5,-5 h 1.5 c 0,2 1.25,3.5 3.5,3.5 h 1 v 1.5 z "/>
 </g>
 <g id="lineedit-focused-bottom" transform="translate(326,0)">
 <path style="opacity:.001;fill:#fff" d="m 17.5002,45 h 32.4998 v 6 h -32.5 z "/>
-<path style="fill:#2d2d2d" d="m 17.5002,45 h 32.4998 v 5 h -32.5 z "/>
+<path style="fill:#282828" d="m 17.5002,45 h 32.4998 v 5 h -32.5 z "/>
 <path style="fill:#15539e;color:#000" d="M 50,50 H 17.5 V 48.5 H 50 Z"/>
 </g>
 <use width="100%" height="100%" xlink:href="#lineedit-focused-top" id="lineedit-focused-left" transform="rotate(-90,359.74998,28.750015)"/>
@@ -746,11 +746,11 @@
 <use width="100%" height="100%" xlink:href="#btn-toggled-bottom" id="btn-pressed-bottom" transform="translate(-50)"/>
 <use width="100%" height="100%" xlink:href="#btn-toggled-bottomright" id="btn-pressed-bottomright" transform="translate(-50)"/>
 <g id="le-normal-left" transform="matrix(0.8,0,0,1,192.5001,-92.251508)">
-<path style="fill:#2d2d2d" d="M 28.75,81.2514 V 48.7516 h -7.5 v 32.5 z"/>
+<path style="fill:#282828" d="M 28.75,81.2514 V 48.7516 h -7.5 v 32.5 z"/>
 <path style="fill:#1b1b1b;color:#000;stroke-width:.707" d="m 21.25,48.7516 v 32.5 h 2.49988 v -32.5 z "/>
 </g>
 <g id="le-normal-topleft" transform="translate(44)">
-<path style="fill:#2d2d2d" d="m 171.5,-49.4999 c -3.04768,0 -6,2.95228 -6,6 h 6 z "/>
+<path style="fill:#282828" d="m 171.5,-49.4999 c -3.04768,0 -6,2.95228 -6,6 h 6 z "/>
 <path style="fill:#1b1b1b;color:#000" d="m 171.5,-49.4999 c -3.25,-0.000133 -6,2.74987 -6,5.99987 h 2 c 0,-2.5 1.5,-4 4,-4 z "/>
 </g>
 <use width="100%" height="100%" xlink:href="#le-normal-left" id="le-normal-top" transform="rotate(90,231.75005,-27.249912)"/>
@@ -760,11 +760,11 @@
 <use width="100%" height="100%" xlink:href="#le-normal-left" id="le-normal-bottom" transform="rotate(-90,231.75,-27.249904)"/>
 <use width="100%" height="100%" xlink:href="#le-normal-topleft" id="le-normal-bottomright" transform="rotate(-180,231.75003,-27.249954)"/>
 <g id="le-focused-left" transform="matrix(0.8,0,0,1,242.5001,-92.251508)">
-<path style="fill:#2d2d2d" d="M 28.75,81.2514 V 48.7516 h -7.5 v 32.5 z"/>
+<path style="fill:#282828" d="M 28.75,81.2514 V 48.7516 h -7.5 v 32.5 z"/>
 <path style="fill:#15539e;color:#000;stroke-width:.707" d="m 21.25,48.7516 v 32.5 h 3.12488 v -32.5 z "/>
 </g>
 <g id="le-focused-topleft" transform="translate(94)">
-<path style="fill:#2d2d2d" d="m 171.5,-49.4999 c -3.04768,0 -6,2.95228 -6,6 h 6 z "/>
+<path style="fill:#282828" d="m 171.5,-49.4999 c -3.04768,0 -6,2.95228 -6,6 h 6 z "/>
 <path style="fill:#15539e;color:#000" d="m 171.5,-49.4999 c -3.25,-0.000133 -6,2.74987 -6,5.99987 h 2.5 c 0,-2.25 1.25,-3.5 3.5,-3.5 z "/>
 </g>
 <use width="100%" height="100%" xlink:href="#le-focused-left" id="le-focused-top" transform="rotate(90,281.75005,-27.249912)"/>
