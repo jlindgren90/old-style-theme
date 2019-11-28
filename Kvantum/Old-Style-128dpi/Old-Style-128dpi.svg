@@ -944,15 +944,15 @@
 <use xlink:href="#highlight-color" id="itemview-toggled-bottomleft"/>
 <use xlink:href="#highlight-color" id="itemview-toggled-bottomright"/>
 
-<use xlink:href="#highlight-color" style="opacity:.25" id="itemview-focused"/>
-<use xlink:href="#highlight-color" style="opacity:.25" id="itemview-focused-left"/>
-<use xlink:href="#highlight-color" style="opacity:.25" id="itemview-focused-right"/>
-<use xlink:href="#highlight-color" style="opacity:.25" id="itemview-focused-top"/>
-<use xlink:href="#highlight-color" style="opacity:.25" id="itemview-focused-topleft"/>
-<use xlink:href="#highlight-color" style="opacity:.25" id="itemview-focused-topright"/>
-<use xlink:href="#highlight-color" style="opacity:.25" id="itemview-focused-bottom"/>
-<use xlink:href="#highlight-color" style="opacity:.25" id="itemview-focused-bottomleft"/>
-<use xlink:href="#highlight-color" style="opacity:.25" id="itemview-focused-bottomright"/>
+<use xlink:href="#highlight-color" style="opacity:.2" id="itemview-focused"/>
+<use xlink:href="#highlight-color" style="opacity:.2" id="itemview-focused-left"/>
+<use xlink:href="#highlight-color" style="opacity:.2" id="itemview-focused-right"/>
+<use xlink:href="#highlight-color" style="opacity:.2" id="itemview-focused-top"/>
+<use xlink:href="#highlight-color" style="opacity:.2" id="itemview-focused-topleft"/>
+<use xlink:href="#highlight-color" style="opacity:.2" id="itemview-focused-topright"/>
+<use xlink:href="#highlight-color" style="opacity:.2" id="itemview-focused-bottom"/>
+<use xlink:href="#highlight-color" style="opacity:.2" id="itemview-focused-bottomleft"/>
+<use xlink:href="#highlight-color" style="opacity:.2" id="itemview-focused-bottomright"/>
 
 <use xlink:href="#gray6-color" id="menu-normal"/>
 
@@ -995,15 +995,15 @@
 <use xlink:href="#highlight-color" id="menubaritem-pressed-bottomleft"/>
 <use xlink:href="#highlight-color" id="menubaritem-pressed-bottomright"/>
 
-<use xlink:href="#highlight-color" style="opacity:.25" id="menubaritem-toggled"/>
-<use xlink:href="#highlight-color" style="opacity:.25" id="menubaritem-toggled-left"/>
-<use xlink:href="#highlight-color" style="opacity:.25" id="menubaritem-toggled-right"/>
-<use xlink:href="#highlight-color" style="opacity:.25" id="menubaritem-toggled-top"/>
-<use xlink:href="#highlight-color" style="opacity:.25" id="menubaritem-toggled-topleft"/>
-<use xlink:href="#highlight-color" style="opacity:.25" id="menubaritem-toggled-topright"/>
-<use xlink:href="#highlight-color" style="opacity:.25" id="menubaritem-toggled-bottom"/>
-<use xlink:href="#highlight-color" style="opacity:.25" id="menubaritem-toggled-bottomleft"/>
-<use xlink:href="#highlight-color" style="opacity:.25" id="menubaritem-toggled-bottomright"/>
+<use xlink:href="#highlight-color" style="opacity:.3" id="menubaritem-toggled"/>
+<use xlink:href="#highlight-color" style="opacity:.3" id="menubaritem-toggled-left"/>
+<use xlink:href="#highlight-color" style="opacity:.3" id="menubaritem-toggled-right"/>
+<use xlink:href="#highlight-color" style="opacity:.3" id="menubaritem-toggled-top"/>
+<use xlink:href="#highlight-color" style="opacity:.3" id="menubaritem-toggled-topleft"/>
+<use xlink:href="#highlight-color" style="opacity:.3" id="menubaritem-toggled-topright"/>
+<use xlink:href="#highlight-color" style="opacity:.3" id="menubaritem-toggled-bottom"/>
+<use xlink:href="#highlight-color" style="opacity:.3" id="menubaritem-toggled-bottomleft"/>
+<use xlink:href="#highlight-color" style="opacity:.3" id="menubaritem-toggled-bottomright"/>
 
 <use xlink:href="#gray5-color" id="splitter-grip-normal"/>
 
