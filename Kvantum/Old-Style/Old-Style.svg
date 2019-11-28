@@ -160,12 +160,6 @@
 <path style="fill:#1b1b1b" id="common-normal-right" d="m 137,866 v 30 h -1 v -30 z "/>
 <path style="fill:#1b1b1b" id="common-normal-bottom" d="m 106,897 h 30 v -1 h -30 z"/>
 <path style="fill:url(#linearGradient5956)" id="titlebar-normal" d="m 390,485 0,32 32,0 0,-32 z"/>
-<g id="mdi-maximize-focused" transform="translate(430.18428,-974.90984)">
-<rect width="32" x="-412" y="1414.8866" height="32" style="opacity:0"/>
-<path style="fill:#3584e4" d="m -406.2267,1440.9483 -4.9485,-4.9486 10.2267,-10.2267 4.9485,-4.9483 4.9485,4.9483 10.2267,10.2269 -4.9485,4.9484 L -396,1430.7215 Z"/>
-</g>
-<use width="450" height="1380" id="mdi-minimize-focused" xlink:href="#mdi-maximize-focused" transform="matrix(1,0,0,-1,164.81578,915.97682)"/>
-<use width="450" height="1380" id="mdi-shade-focused" xlink:href="#mdi-maximize-focused" transform="matrix(1,0,0,-1,315.64052,911.09012)"/>
 <rect width="25" x="405" y="70" height="25" style="opacity:0;fill:#7b7b7b" id="button-default-indicator"/>
 <g style="opacity:.8;fill:#323232" id="iarrow-plus-normal" transform="matrix(1.2445079,1.2445079,-1.2445079,1.2445079,129.8342,259.50532)">
 <path style="fill:#eeeeec;stroke-width:1.574" d="m 16,239 v 9 H 7 v 4 h 9 v 9 h 4 v -9 h 9 v -4 h -9 v -9 z" transform="matrix(0.40176523,-0.40176523,0.40176523,0.40176523,-156.42308,-52.097347)"/>
@@ -232,49 +226,6 @@
 <use width="450" height="1230" xlink:href="#arrow-up-normal" id="menuitem-right-normal" transform="rotate(90,-48,617)"/>
 <use width="450" height="1230" xlink:href="#arrow-up-normal" id="menuitem-left-normal" transform="rotate(-90,492,237)"/>
 <path style="fill:#a5a5a5" id="slider-tick-normal" d="m 155,839 h 5 v 1 h -5 z"/>
-<g id="mdi-restore-normal" transform="translate(-2.5,-127.5)">
-<rect width="32" x="101.5" y="521.5" height="32" style="opacity:.2;fill-opacity:0"/>
-<g style="fill:none;stroke-width:4">
-<rect width="14.142136" x="-306.17694" y="458.20486" height="14.142136" style="stroke-opacity:.784;stroke:#000;fill-opacity:0" transform="rotate(-45)"/>
-<rect width="14.142136" x="-304.05594" y="456.08386" height="14.142136" style="stroke:#a5a5a5" transform="rotate(-45)"/>
-</g>
-</g>
-<g id="mdi-maximize-normal" transform="translate(-7.5,-130)">
-<rect width="32" x="29" y="524" height="32" style="fill:#fff;fill-opacity:0"/>
-<g style="fill:none;stroke-width:5">
-<path style="stroke-opacity:.784;stroke:#000" d="m 33.25,550.1057 11.971,-12.8169 11.5,12.8687"/>
-<path style="stroke:#a5a5a5" d="m 33.25,547.1061 11.971,-12.8169 11.5,12.8687"/>
-</g>
-</g>
-<g id="mdi-minimize-normal" transform="matrix(1,0,0,-1,154.77895,949.78886)">
-<rect width="32" x="29" y="524" height="32" style="fill:#fff;fill-opacity:0"/>
-<g style="fill:none;stroke-width:5">
-<path style="stroke-opacity:.784;stroke:#000" d="m 33.25,544.1057 11.971,-12.8169 11.5,12.8687"/>
-<path style="stroke:#a5a5a5" d="m 33.25,547.1061 11.971,-12.8169 11.5,12.8687"/>
-</g>
-</g>
-<use width="100%" height="100%" xlink:href="#mdi-minimize-normal" id="mdi-shade-normal" transform="translate(150,-0.49968)"/>
-<g id="mdi-restore-focused" transform="translate(-7.8754392,-135.86126)">
-<rect width="32" x="104" y="576.5" height="32" style="opacity:.2;fill-opacity:0"/>
-<rect width="14.142136" x="-341.17902" y="496.74249" height="14.142136" style="fill:none;stroke:#3584e4;stroke-width:6" transform="rotate(-45)"/>
-</g>
-<g id="mdi-menu-normal">
-<path style="opacity:0;paint-order:normal" d="m 396,398 h 32 v 32 h -32 z"/>
-<path style="fill:#fff;fill-opacity:.784" d="m 425.5,413.25 v 4.5 h -27 v -4.5 z"/>
-<path style="fill:#fff;fill-opacity:.784" d="m 425.5,422 v 4.5 h -27 V 422 Z"/>
-<path style="fill:#fff;fill-opacity:.784" d="m 425.5,404.5 v 4.5 h -27 v -4.5 z"/>
-<path style="fill:#a5a5a5" d="m 425.5,411.25 v 4.5 h -27 v -4.5 z"/>
-<path style="fill:#a5a5a5" d="m 425.5,420 v 4.5 h -27 V 420 Z"/>
-<path style="fill:#a5a5a5" d="m 425.5,402.5 v 4.5 h -27 v -4.5 z"/>
-</g>
-<use width="100%" height="100%" style="opacity:.7" xlink:href="#mdi-restore-normal" id="mdi-restore-disabled" transform="translate(-2.7210489,132.71123)"/>
-<use width="100%" height="100%" style="opacity:.7" xlink:href="#mdi-maximize-normal" id="mdi-maximize-disabled" transform="translate(-2.7210489,132.71123)"/>
-<use width="100%" height="100%" style="opacity:.7" xlink:href="#mdi-minimize-normal" id="mdi-minimize-disabled" transform="translate(-2.7210489,132.71123)"/>
-<use width="100%" height="100%" style="opacity:.7" xlink:href="#mdi-minimize-normal" id="mdi-shade-disabled" transform="translate(144.77895,132.21089)"/>
-<use width="100%" height="100%" xlink:href="#mdi-maximize-focused" id="mdi-maximize-pressed" transform="translate(-1.1842344,44.02335)"/>
-<use width="100%" height="100%" xlink:href="#mdi-minimize-focused" id="mdi-minimize-pressed" transform="translate(-1.1842344,44.02335)"/>
-<use width="100%" height="100%" xlink:href="#mdi-restore-focused" id="mdi-restore-pressed" transform="translate(-1.1842344,44.02335)"/>
-<use width="100%" height="100%" xlink:href="#mdi-minimize-focused" id="mdi-shade-pressed" transform="translate(149.65872,40)"/>
 <g id="resize-grip-normal" transform="translate(0,12.5)">
 <rect width="25" x="375" y="87.5" height="25" style="opacity:0;fill:#7b7b7b"/>
 <path style="opacity:.2;fill:#fff" d="m 400,92.5 -20,20 h 20 z"/>
@@ -883,14 +834,6 @@
 <use width="100%" height="100%" xlink:href="#expand-button-normal" id="expand-progress-pattern-normal" transform="translate(0,12)"/>
 <use width="100%" height="100%" id="expand-progress-normal" xlink:href="#expand-button-normal" transform="translate(0,16)"/>
 <use width="100%" height="100%" xlink:href="#expand-button-normal" id="expand-progress-pattern-disabled" transform="translate(0,20)"/>
-<path style="fill:#c8c8c8;stroke-width:.5" id="tab-close-pressed" d="m 236,778 a 8,8 0 0 0 -8,8 8,8 0 0 0 8,8 8,8 0 0 0 8,-8 8,8 0 0 0 -8,-8 z m -2.8281,3.7578 2.8281,2.8281 2.8281,-2.8281 1.4141,1.4141 -2.8281,2.8281 2.8281,2.8281 -1.4141,1.4141 -2.8281,-2.8281 -2.8281,2.8281 -1.4141,-1.4141 2.8281,-2.8281 -2.8281,-2.8281 z"/>
-<use width="100%" height="100%" style="opacity:.8" xlink:href="#tab-close-pressed" id="tab-close-focused" transform="translate(20)"/>
-<use width="100%" height="100%" style="opacity:.4" xlink:href="#tab-close-pressed" id="tab-close-normal" transform="translate(42)"/>
-<use width="100%" height="100%" style="opacity:.15" xlink:href="#tab-close-pressed" id="tab-close-disabled" transform="translate(66)"/>
-<use width="100%" height="100%" style="opacity:.8" xlink:href="#tab-close-pressed" id="mdi-close-normal" transform="translate(40,-378)"/>
-<path style="fill:#f55;stroke-width:.5" id="mdi-close-focused" d="m 276,449 a 8,8 0 0 0 -8,8 8,8 0 0 0 8,8 8,8 0 0 0 8,-8 8,8 0 0 0 -8,-8 z m -2.8281,3.7578 2.8281,2.8281 2.8281,-2.8281 1.4141,1.4141 -2.8281,2.8281 2.8281,2.8281 -1.4141,1.4141 -2.8281,-2.8281 -2.8281,2.8281 -1.4141,-1.4141 2.8281,-2.8281 -2.8281,-2.8281 z"/>
-<use width="100%" height="100%" xlink:href="#mdi-close-focused" id="mdi-close-pressed" transform="translate(0,46)"/>
-<use width="100%" height="100%" style="opacity:.5" xlink:href="#tab-close-pressed" id="mdi-close-disabled" transform="translate(40,-242)"/>
 
 <path style="fill-opacity:0" id="transparent" d="m 20,660 2,0 0,2 -2,0 z"/>
 <path style="fill:#181818" id="gray3-color" d="m 24,660 2,0 0,2 -2,0 z"/>
@@ -1073,5 +1016,45 @@
 <use xlink:href="#tooltip-color" id="tooltip-normal-bottom"/>
 <use xlink:href="#tooltip-color" id="tooltip-normal-bottomleft"/>
 <use xlink:href="#tooltip-color" id="tooltip-normal-bottomright"/>
+
+<g id="tab-close-normal">
+<rect style="fill:none" x="18" y="698" width="20" height="20"/>
+<path style="fill:#909090" d="m 20,700 6,6 6,-6 2,2 -6,6 6,6 -2,2 -6,-6 -6,6 -2,-2 6,-6 -6,-6 z"/>
+</g>
+<g id="tab-close-toggled">
+<rect style="fill:none" x="18" y="698" width="20" height="20"/>
+<path style="fill:#f0f0f0" d="m 20,700 6,6 6,-6 2,2 -6,6 6,6 -2,2 -6,-6 -6,6 -2,-2 6,-6 -6,-6 z"/>
+</g>
+
+<use xlink:href="#tab-close-normal" style="opacity:.3" id="tab-close-disabled"/>
+
+<g id="mdi-close-normal">
+<rect style="fill:none" x="38" y="698" width="20" height="20"/>
+<path style="fill:#f0f0f0" d="m 40,700 6,6 6,-6 2,2 -6,6 6,6 -2,2 -6,-6 -6,6 -2,-2 6,-6 -6,-6 z"/>
+</g>
+<g id="mdi-maximize-normal">
+<rect style="fill:none" x="58" y="698" width="20" height="20"/>
+<path style="fill:#f0f0f0" d="m 60,700 v 16 h 16 v -16 z m 2,4 h 12 v 10 h -12 z"/>
+</g>
+<g id="mdi-restore-normal">
+<rect style="fill:none" x="78" y="698" width="20" height="20"/>
+<path style="fill:#f0f0f0" d="m 84,700 v 4 2 h -2 -2 v 10 h 2 6 2 v -4 h 4 2 v -8 -4 z m 2,4 h 8 v 6 h -4 v -2 -2 h -4 z m -4,4 h 6 v 6 h -6 z"/>
+</g>
+<g id="mdi-minimize-normal">
+<rect style="fill:none" x="98" y="698" width="20" height="20"/>
+<rect style="fill:#f0f0f0" x="100" y="714" width="16" height="2"/>
+</g>
+<g id="mdi-menu-normal">
+<rect style="fill:none" x="118" y="698" width="20" height="20"/>
+<rect style="fill:#f0f0f0" x="120" y="703" width="16" height="2"/>
+<rect style="fill:#f0f0f0" x="120" y="707" width="16" height="2"/>
+<rect style="fill:#f0f0f0" x="120" y="711" width="16" height="2"/>
+</g>
+
+<use xlink:href="#mdi-close-normal" style="opacity:.3" id="mdi-close-disabled"/>
+<use xlink:href="#mdi-maximize-normal" style="opacity:.3" id="mdi-maximize-disabled"/>
+<use xlink:href="#mdi-restore-normal" style="opacity:.3" id="mdi-restore-disabled"/>
+<use xlink:href="#mdi-minimize-normal" style="opacity:.3" id="mdi-minimize-disabled"/>
+<use xlink:href="#mdi-menu-normal" style="opacity:.3" id="mdi-menu-disabled"/>
 
 </svg>
