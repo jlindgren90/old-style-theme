@@ -124,9 +124,6 @@
 <path style="fill:#a5a5a5" d="m 222.9062,667.5938 -.5,.0625 .3125,2.9688 .5,-.0312 -.3125,-3 z  m 4.1875,0 -.3125,3 .5,.0312 .3125,-2.9688 -.5,-.0625 z  m -8.8125,.9375 -.4688,.1562 .9375,2.8438 .4688,-.1562 z  m 13.4375,0 -.9375,2.8438 .4688,.1562 .9375,-2.8438 z  m -21.5938,4.5938 -.375,.3125 2.0312,2.25 .3438,-.3438 -2,-2.2188 z  m 29.75,0 -2,2.2188 .3438,.3438 2.0312,-2.25 -.375,-.3125 z  m -32.9375,3.4375 -.2812,.4062 2.4062,1.7812 .3125,-.4062 z  m 36.125,0 -2.4375,1.7812 .3125,.4062 2.4062,-1.7812 z  m -38.5,4.0625 -.2188,.4375 2.75,1.25 .1875,-.4688 -2.7188,-1.2188 z  m 40.875,0 -2.7188,1.2188 .1875,.4688 2.75,-1.25 -.2188,-.4375 z  m -42.4062,4.4375 -.0937,.5 2.9375,.625 .0937,-.5 z  m 43.9375,0 -2.9375,.625 .0937,.5 2.9375,-.625 z  m -41.0938,8.75 -2.9375,.625 .0937,.5 2.9375,-.625 z  m 38.25,0 -.0937,.5 2.9375,.625 .0937,-.5 z  m -37.0312,3.875 -2.75,1.25 .2188,.4375 2.7188,-1.2188 -.1875,-.4688 z  m 35.8125,0 -.1875,.4688 2.7188,1.2188 .2188,-.4375 -2.75,-1.25 z  m -33.8438,3.5625 -2.4062,1.7812 .2812,.4062 2.4375,-1.7812 z  m 31.875,0 -.3125,.4062 2.4375,1.7812 .2812,-.4062 z  m -29.1562,3.0625 -2.0312,2.25 .375,.3125 2,-2.2188 -.3438,-.3438 z  m 26.4375,0 -.3438,.3438 2,2.2188 .375,-.3125 -2.0312,-2.25 z "/>
 </g>
 </g>
-<path style="fill:#303030" id="menu-normal" d="m 117,662 48,0 0,48 -48,0 z"/>
-<path style="fill:#181818" id="menu-normal-left" d="m 111.9989,662 5,0 0,48 -5,0"/>
-<path style="fill:#181818" id="menu-normal-topleft" d="m 116.9989,657 -4.9989,0 -.001,5 5,0 z "/>
 <g id="arrow-up-normal" transform="translate(12,-423.49287)">
 <rect width="24" x="-607.49298" y="8" height="24" style="opacity:0;fill:#fff" transform="rotate(-90)"/>
 <path style="fill:#eeeeec" d="m 8.5,600.4928 11.5,-11.9999 11.5,12.0001 Z "/>
@@ -145,8 +142,6 @@
 </g>
 <path style="fill:url(#linearGradient5687);stroke:url(#linearGradient5114)" id="slidercursor-normal" d="m 121.2119,609 c -3.04582,2.5 -6.42348,8.49989 -12.1429,8.49989 -5.71937,0 -8.57274,-4 -8.56888,-8.49989 0.003,-4.50058 2.84951,-8.5 8.56888,-8.5 5.71939,0 9.09705,6 12.1429,8.5 z "/>
 <circle cx="80" cy="835" style="fill:#15539e" r="5" id="dial-handle"/>
-<path style="fill:#15539e" id="menuitem-pressed-topleft" d="m 194,675 0,4 -4,0 0,-4 z"/>
-<path style="fill:#15539e" id="menuitem-pressed-left" d="m 190,680 h 4 v 8 h -4 z"/>
 <path style="fill:#1b1b1b" id="common-normal-left" d="m 105,866 v 30 h 1 v -30 z"/>
 <use width="450" height="1230" xlink:href="#arrow-up-normal" id="arrow-down-normal" transform="matrix(1,0,0,-1,-0.2982249,377.6081)"/>
 <use width="450" height="1230" xlink:href="#arrow-up-focused" id="arrow-down-focused" transform="matrix(1,0,0,-1,-0.1929779,377.60799)"/>
@@ -154,20 +149,6 @@
 <use width="450" height="1230" xlink:href="#arrow-up-normal" id="arrow-left-normal" transform="rotate(-90,184.90485,65.203147)"/>
 <use width="450" height="1230" xlink:href="#arrow-up-focused" id="arrow-right-focused" transform="rotate(90,247.49425,303.7075)"/>
 <use width="450" height="1230" xlink:href="#arrow-up-focused" id="arrow-left-focused" transform="rotate(-90,273.60229,66.400467)"/>
-<path style="fill:#15539e" id="menuitem-pressed-topright" d="m 208,679 -4,0 0,-4 4,0 z"/>
-<path style="fill:#15539e" id="menuitem-pressed-top" d="m 675,-203 h 4 v 8 h -4 z" transform="matrix(0,1,-1,0,0,0)"/>
-<path style="fill:#15539e" id="menuitem-pressed-bottomright" d="m 204,693 0,-4 4,0 0,4 z"/>
-<path style="fill:#15539e" id="menuitem-pressed-right" d="m -208,-688 h 4 v 8 h -4 z" transform="scale(-1,-1)"/>
-<path style="fill:#15539e" id="menuitem-pressed-bottomleft" d="m 190,689 4,0 0,4 -4,0 z"/>
-<path style="fill:#15539e" id="menuitem-pressed-bottom" d="m -693,195 h 4 v 8 h -4 z" transform="matrix(0,-1,1,0,0,0)"/>
-<path style="fill:#15539e" id="menuitem-toggled-topleft" d="m 214,675 0,4 -4,0 0,-4 z"/>
-<path style="fill:#15539e" id="menuitem-toggled-left" d="m 210,680 h 4 v 8 h -4 z"/>
-<path style="fill:#15539e" id="menuitem-toggled-topright" d="m 228,679 -4,0 0,-4 4,0 z"/>
-<path style="fill:#15539e" id="menuitem-toggled-top" d="m 675,-223 h 4 v 8 h -4 z" transform="matrix(0,1,-1,0,0,0)"/>
-<path style="fill:#15539e" id="menuitem-toggled-bottomright" d="m 224,693 0,-4 4,0 0,4 z"/>
-<path style="fill:#15539e" id="menuitem-toggled-right" d="m -228,-688 h 4 v 8 h -4 z" transform="scale(-1,-1)"/>
-<path style="fill:#15539e" id="menuitem-toggled-bottomleft" d="m 210,689 4,0 0,4 -4,0 z"/>
-<path style="fill:#15539e" id="menuitem-toggled-bottom" d="m -693,215 h 4 v 8 h -4 z" transform="matrix(0,-1,1,0,0,0)"/>
 <use width="450" height="1230" xlink:href="#group-normal-left" id="group-normal-top" transform="rotate(90,404,753)"/>
 <use width="450" height="1230" xlink:href="#group-normal-topleft" id="group-normal-topright" transform="rotate(90,404,753)"/>
 <use width="450" height="1230" xlink:href="#group-normal-left" id="group-normal-right" transform="rotate(180,404,753)"/>
@@ -175,12 +156,6 @@
 <use width="450" height="1230" xlink:href="#group-normal-left" id="group-normal-bottom" transform="rotate(-90,404,753)"/>
 <use width="450" height="1230" xlink:href="#group-normal-topleft" id="group-normal-bottomleft" transform="rotate(-90,404,753)"/>
 <ellipse cx="263" cy="608" rx="7.5" ry="7.5" style="fill:#353535;stroke:#070707;color:#000" id="radio-focused"/>
-<path style="fill:#181818" id="menu-normal-top" d="m 165,657 0,5 -48,0 0,-5 z"/>
-<path style="fill:#181818" id="menu-normal-topright" d="m 169.999,662 0,-4.9989 -5,-.001 0,5 z "/>
-<path style="fill:#181818" id="menu-normal-right" d="m 169.9988,662 -5,0 0,48 5,0 z"/>
-<path style="fill:#181818" id="menu-normal-bottomright" d="m 164.9988,715 4.9989,0 .001,-5 -5,0 z "/>
-<path style="fill:#181818" id="menu-normal-bottom" d="m 117,715 0,-5 48,0 0,5 z"/>
-<path style="fill:#181818" id="menu-normal-bottomleft" d="m 112,710 0,4.9989 5,0 0,-5 z"/>
 <path style="fill:#1b1b1b" id="common-normal-top" d="m 136,865 h -30 v 1 h 30 z"/>
 <path style="fill:#1b1b1b" id="common-normal-right" d="m 137,866 v 30 h -1 v -30 z "/>
 <path style="fill:#1b1b1b" id="common-normal-bottom" d="m 106,897 h 30 v -1 h -30 z"/>
@@ -192,24 +167,6 @@
 <use width="450" height="1380" id="mdi-minimize-focused" xlink:href="#mdi-maximize-focused" transform="matrix(1,0,0,-1,164.81578,915.97682)"/>
 <use width="450" height="1380" id="mdi-shade-focused" xlink:href="#mdi-maximize-focused" transform="matrix(1,0,0,-1,315.64052,911.09012)"/>
 <rect width="25" x="405" y="70" height="25" style="opacity:0;fill:#7b7b7b" id="button-default-indicator"/>
-<path style="fill:#15539e" id="menubaritem-pressed-bottom" d="m 275,680 h 20 v 5 h -20 z"/>
-<use width="100%" height="100%" id="menubaritem-pressed" xlink:href="#menubaritem-pressed-bottom"/>
-<use width="100%" height="100%" id="menubaritem-pressed-left" xlink:href="#menubaritem-pressed-bottom"/>
-<use width="100%" height="100%" id="menubaritem-pressed-right" xlink:href="#menubaritem-pressed-bottom"/>
-<use width="100%" height="100%" id="menubaritem-pressed-top" xlink:href="#menubaritem-pressed-bottom"/>
-<use width="100%" height="100%" id="menubaritem-pressed-topleft" xlink:href="#menubaritem-pressed-bottom"/>
-<use width="100%" height="100%" id="menubaritem-pressed-topright" xlink:href="#menubaritem-pressed-bottom"/>
-<use width="100%" height="100%" id="menubaritem-pressed-bottomleft" xlink:href="#menubaritem-pressed-bottom"/>
-<use width="100%" height="100%" id="menubaritem-pressed-bottomright" xlink:href="#menubaritem-pressed-bottom"/>
-<use width="100%" height="100%" style="opacity:.2" id="menubaritem-toggled" xlink:href="#menubaritem-pressed-bottom"/>
-<use width="100%" height="100%" style="opacity:.2" id="menubaritem-toggled-left" xlink:href="#menubaritem-pressed-bottom"/>
-<use width="100%" height="100%" style="opacity:.2" id="menubaritem-toggled-right" xlink:href="#menubaritem-pressed-bottom"/>
-<use width="100%" height="100%" style="opacity:.2" id="menubaritem-toggled-top" xlink:href="#menubaritem-pressed-bottom"/>
-<use width="100%" height="100%" style="opacity:.2" id="menubaritem-toggled-topleft" xlink:href="#menubaritem-pressed-bottom"/>
-<use width="100%" height="100%" style="opacity:.2" id="menubaritem-toggled-topright" xlink:href="#menubaritem-pressed-bottom"/>
-<use width="100%" height="100%" style="opacity:.2" id="menubaritem-toggled-bottom" xlink:href="#menubaritem-pressed-bottom"/>
-<use width="100%" height="100%" style="opacity:.2" id="menubaritem-toggled-bottomleft" xlink:href="#menubaritem-pressed-bottom"/>
-<use width="100%" height="100%" style="opacity:.2" id="menubaritem-toggled-bottomright" xlink:href="#menubaritem-pressed-bottom"/>
 <g style="opacity:.8;fill:#323232" id="iarrow-plus-normal" transform="matrix(1.2445079,1.2445079,-1.2445079,1.2445079,129.8342,259.50532)">
 <path style="fill:#eeeeec;stroke-width:1.574" d="m 16,239 v 9 H 7 v 4 h 9 v 9 h 4 v -9 h 9 v -4 h -9 v -9 z" transform="matrix(0.40176523,-0.40176523,0.40176523,0.40176523,-156.42308,-52.097347)"/>
 </g>
@@ -242,8 +199,6 @@
 <path style="fill:#1b1b1b" id="dock-normal-bottom" d="m 167,909 v -5 h 30 v 5 z"/>
 <path style="fill:#1b1b1b" id="dock-normal-bottomleft" d="m 160,904 h 5 v 5 h -5 z"/>
 <path style="opacity:.27;fill:#fff" id="toolbar-handle" d="m 410,144 a 5,5 0 0 1 -10,0 5,5 0 1 1 10,0 z"/>
-<path style="fill:#15539e" id="menuitem-pressed" d="m 195,680 h 8 v 8 h -8 z"/>
-<path style="fill:#15539e" id="menuitem-toggled" d="m 215,680 h 8 v 8 h -8 z"/>
 <path style="fill:#353535" id="dock-focused" d="m 222,872 h 30 v 30 h -30 z"/>
 <g id="radio-checked-focused">
 <use width="100%" height="100%" xlink:href="#radio-focused" transform="translate(40,0)"/>
@@ -1010,66 +965,118 @@
 <use width="100%" height="100%" id="tooltip-normal-bottomright" xlink:href="#tooltip-normal-topleft" transform="rotate(-180,400,886)"/>
 
 <path style="fill-opacity:0" id="transparent" d="m 20,660 2,0 0,2 -2,0 z"/>
-<path style="fill:#181818" id="border-color" d="m 24,660 2,0 0,2 -2,0 z"/>
-<path style="fill:#252525" id="bg-tab-color" d="m 28,660 2,0 0,2 -2,0 z"/>
-<path style="fill:#303030" id="focus-tab-color" d="m 32,660 2,0 0,2 -2,0 z"/>
-<path style="fill:#383838" id="fg-tab-color" d="m 36,660 2,0 0,2 -2,0 z"/>
+<path style="fill:#181818" id="gray3-color" d="m 24,660 2,0 0,2 -2,0 z"/>
+<path style="fill:#282828" id="gray5-color" d="m 28,660 2,0 0,2 -2,0 z"/>
+<path style="fill:#303030" id="gray6-color" d="m 32,660 2,0 0,2 -2,0 z"/>
+<path style="fill:#383838" id="gray7-color" d="m 36,660 2,0 0,2 -2,0 z"/>
+<path style="fill:#15539e" id="highlight-color" d="m 40,660 2,0 0,2 -2,0 z"/>
 
-<use xlink:href="#bg-tab-color" id="floating-tab-normal"/>
+<use xlink:href="#gray6-color" id="menu-normal"/>
 
-<use xlink:href="#border-color" id="floating-tab-normal-left"/>
-<use xlink:href="#border-color" id="floating-tab-normal-right"/>
-<use xlink:href="#border-color" id="floating-tab-normal-top"/>
-<use xlink:href="#border-color" id="floating-tab-normal-topleft"/>
-<use xlink:href="#border-color" id="floating-tab-normal-topright"/>
-<use xlink:href="#border-color" id="floating-tab-normal-bottom"/>
-<use xlink:href="#border-color" id="floating-tab-normal-bottomright"/>
-<use xlink:href="#border-color" id="floating-tab-normal-bottomleft"/>
+<use xlink:href="#gray3-color" id="menu-normal-left"/>
+<use xlink:href="#gray3-color" id="menu-normal-right"/>
+<use xlink:href="#gray3-color" id="menu-normal-top"/>
+<use xlink:href="#gray3-color" id="menu-normal-topleft"/>
+<use xlink:href="#gray3-color" id="menu-normal-topright"/>
+<use xlink:href="#gray3-color" id="menu-normal-bottom"/>
+<use xlink:href="#gray3-color" id="menu-normal-bottomleft"/>
+<use xlink:href="#gray3-color" id="menu-normal-bottomright"/>
 
-<use xlink:href="#fg-tab-color" id="floating-tab-toggled"/>
-<use xlink:href="#fg-tab-color" id="floating-tab-toggled-bottom"/>
+<use xlink:href="#highlight-color" id="menuitem-pressed"/>
+<use xlink:href="#highlight-color" id="menuitem-pressed-left"/>
+<use xlink:href="#highlight-color" id="menuitem-pressed-right"/>
+<use xlink:href="#highlight-color" id="menuitem-pressed-top"/>
+<use xlink:href="#highlight-color" id="menuitem-pressed-topleft"/>
+<use xlink:href="#highlight-color" id="menuitem-pressed-topright"/>
+<use xlink:href="#highlight-color" id="menuitem-pressed-bottom"/>
+<use xlink:href="#highlight-color" id="menuitem-pressed-bottomleft"/>
+<use xlink:href="#highlight-color" id="menuitem-pressed-bottomright"/>
 
-<use xlink:href="#focus-tab-color" id="floating-tab-focused"/>
+<use xlink:href="#highlight-color" id="menuitem-toggled"/>
+<use xlink:href="#highlight-color" id="menuitem-toggled-left"/>
+<use xlink:href="#highlight-color" id="menuitem-toggled-right"/>
+<use xlink:href="#highlight-color" id="menuitem-toggled-top"/>
+<use xlink:href="#highlight-color" id="menuitem-toggled-topleft"/>
+<use xlink:href="#highlight-color" id="menuitem-toggled-topright"/>
+<use xlink:href="#highlight-color" id="menuitem-toggled-bottom"/>
+<use xlink:href="#highlight-color" id="menuitem-toggled-bottomleft"/>
+<use xlink:href="#highlight-color" id="menuitem-toggled-bottomright"/>
 
-<use xlink:href="#bg-tab-color" id="tab-normal"/>
-<use xlink:href="#bg-tab-color" id="tab-normal-bottom"/>
+<use xlink:href="#highlight-color" id="menubaritem-pressed"/>
+<use xlink:href="#highlight-color" id="menubaritem-pressed-left"/>
+<use xlink:href="#highlight-color" id="menubaritem-pressed-right"/>
+<use xlink:href="#highlight-color" id="menubaritem-pressed-top"/>
+<use xlink:href="#highlight-color" id="menubaritem-pressed-topleft"/>
+<use xlink:href="#highlight-color" id="menubaritem-pressed-topright"/>
+<use xlink:href="#highlight-color" id="menubaritem-pressed-bottom"/>
+<use xlink:href="#highlight-color" id="menubaritem-pressed-bottomleft"/>
+<use xlink:href="#highlight-color" id="menubaritem-pressed-bottomright"/>
 
-<use xlink:href="#border-color" id="tab-normal-left"/>
-<use xlink:href="#border-color" id="tab-normal-right"/>
-<use xlink:href="#border-color" id="tab-normal-top"/>
-<use xlink:href="#border-color" id="tab-normal-topleft"/>
-<use xlink:href="#border-color" id="tab-normal-topright"/>
-<use xlink:href="#border-color" id="tab-normal-bottomright"/>
-<use xlink:href="#border-color" id="tab-normal-bottomleft"/>
+<use xlink:href="#highlight-color" style="opacity:.25" id="menubaritem-toggled"/>
+<use xlink:href="#highlight-color" style="opacity:.25" id="menubaritem-toggled-left"/>
+<use xlink:href="#highlight-color" style="opacity:.25" id="menubaritem-toggled-right"/>
+<use xlink:href="#highlight-color" style="opacity:.25" id="menubaritem-toggled-top"/>
+<use xlink:href="#highlight-color" style="opacity:.25" id="menubaritem-toggled-topleft"/>
+<use xlink:href="#highlight-color" style="opacity:.25" id="menubaritem-toggled-topright"/>
+<use xlink:href="#highlight-color" style="opacity:.25" id="menubaritem-toggled-bottom"/>
+<use xlink:href="#highlight-color" style="opacity:.25" id="menubaritem-toggled-bottomleft"/>
+<use xlink:href="#highlight-color" style="opacity:.25" id="menubaritem-toggled-bottomright"/>
 
-<use xlink:href="#fg-tab-color" id="tab-toggled"/>
-<use xlink:href="#fg-tab-color" id="tab-toggled-bottom"/>
+<use xlink:href="#gray5-color" id="floating-tab-normal"/>
 
-<use xlink:href="#focus-tab-color" id="tab-focused"/>
-<use xlink:href="#focus-tab-color" id="tab-focused-bottom"/>
+<use xlink:href="#gray3-color" id="floating-tab-normal-left"/>
+<use xlink:href="#gray3-color" id="floating-tab-normal-right"/>
+<use xlink:href="#gray3-color" id="floating-tab-normal-top"/>
+<use xlink:href="#gray3-color" id="floating-tab-normal-topleft"/>
+<use xlink:href="#gray3-color" id="floating-tab-normal-topright"/>
+<use xlink:href="#gray3-color" id="floating-tab-normal-bottom"/>
+<use xlink:href="#gray3-color" id="floating-tab-normal-bottomright"/>
+<use xlink:href="#gray3-color" id="floating-tab-normal-bottomleft"/>
 
-<use xlink:href="#border-color" id="tabbarframe-normal-bottom"/>
-<use xlink:href="#border-color" id="tabbarframe-normal-bottomright"/>
-<use xlink:href="#border-color" id="tabbarframe-normal-bottomleft"/>
+<use xlink:href="#gray7-color" id="floating-tab-toggled"/>
+<use xlink:href="#gray7-color" id="floating-tab-toggled-bottom"/>
+
+<use xlink:href="#gray6-color" id="floating-tab-focused"/>
+
+<use xlink:href="#gray5-color" id="tab-normal"/>
+<use xlink:href="#gray5-color" id="tab-normal-bottom"/>
+
+<use xlink:href="#gray3-color" id="tab-normal-left"/>
+<use xlink:href="#gray3-color" id="tab-normal-right"/>
+<use xlink:href="#gray3-color" id="tab-normal-top"/>
+<use xlink:href="#gray3-color" id="tab-normal-topleft"/>
+<use xlink:href="#gray3-color" id="tab-normal-topright"/>
+<use xlink:href="#gray3-color" id="tab-normal-bottomright"/>
+<use xlink:href="#gray3-color" id="tab-normal-bottomleft"/>
+
+<use xlink:href="#gray7-color" id="tab-toggled"/>
+<use xlink:href="#gray7-color" id="tab-toggled-bottom"/>
+
+<use xlink:href="#gray6-color" id="tab-focused"/>
+<use xlink:href="#gray6-color" id="tab-focused-bottom"/>
+
+<use xlink:href="#gray3-color" id="tabbarframe-normal-bottom"/>
+<use xlink:href="#gray3-color" id="tabbarframe-normal-bottomright"/>
+<use xlink:href="#gray3-color" id="tabbarframe-normal-bottomleft"/>
 
 <use xlink:href="#transparent" id="tabframe-normal"/>
 
-<use xlink:href="#border-color" id="tabframe-normal-left"/>
-<use xlink:href="#border-color" id="tabframe-normal-right"/>
-<use xlink:href="#border-color" id="tabframe-normal-top"/>
-<use xlink:href="#border-color" id="tabframe-normal-topleft"/>
-<use xlink:href="#border-color" id="tabframe-normal-topright"/>
-<use xlink:href="#border-color" id="tabframe-normal-bottom"/>
-<use xlink:href="#border-color" id="tabframe-normal-bottomright"/>
-<use xlink:href="#border-color" id="tabframe-normal-bottomleft"/>
+<use xlink:href="#gray3-color" id="tabframe-normal-left"/>
+<use xlink:href="#gray3-color" id="tabframe-normal-right"/>
+<use xlink:href="#gray3-color" id="tabframe-normal-top"/>
+<use xlink:href="#gray3-color" id="tabframe-normal-topleft"/>
+<use xlink:href="#gray3-color" id="tabframe-normal-topright"/>
+<use xlink:href="#gray3-color" id="tabframe-normal-bottom"/>
+<use xlink:href="#gray3-color" id="tabframe-normal-bottomright"/>
+<use xlink:href="#gray3-color" id="tabframe-normal-bottomleft"/>
 
-<use xlink:href="#border-color" id="tabframe-normal-left-leftjunct"/>
-<use xlink:href="#border-color" id="tabframe-normal-left-rightjunct"/>
-<use xlink:href="#border-color" id="tabframe-normal-right-leftjunct"/>
-<use xlink:href="#border-color" id="tabframe-normal-right-rightjunct"/>
-<use xlink:href="#border-color" id="tabframe-normal-top-leftjunct"/>
-<use xlink:href="#border-color" id="tabframe-normal-top-rightjunct"/>
-<use xlink:href="#border-color" id="tabframe-normal-bottom-leftjunct"/>
-<use xlink:href="#border-color" id="tabframe-normal-bottom-rightjunct"/>
+<use xlink:href="#gray3-color" id="tabframe-normal-left-leftjunct"/>
+<use xlink:href="#gray3-color" id="tabframe-normal-left-rightjunct"/>
+<use xlink:href="#gray3-color" id="tabframe-normal-right-leftjunct"/>
+<use xlink:href="#gray3-color" id="tabframe-normal-right-rightjunct"/>
+<use xlink:href="#gray3-color" id="tabframe-normal-top-leftjunct"/>
+<use xlink:href="#gray3-color" id="tabframe-normal-top-rightjunct"/>
+<use xlink:href="#gray3-color" id="tabframe-normal-bottom-leftjunct"/>
+<use xlink:href="#gray3-color" id="tabframe-normal-bottom-rightjunct"/>
 
 </svg>
