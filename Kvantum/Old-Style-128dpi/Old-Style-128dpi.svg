@@ -830,11 +830,11 @@
 <path style="fill:#15539e;color:#000" id="floating-button-toggled-bottomleft" d="m 103,805 h -3 v -3 h 3 Z "/>
 <path style="fill:#15539e;color:#000" id="floating-button-toggled-bottomright" d="m 138,805 h -3 v -3 h 3 z"/>
 <g id="slider-normal-left">
-<path style="opacity:.23" d="m 25,602 v 16.4063 0.094 h 12 v -16.5 z"/>
+<path style="fill:#181818" d="m 25,602 v 16.4063 0.094 h 12 v -16.5 z"/>
 <path style="fill:#282828" d="m 31,602 v 16.4063 0.094 h 6 v -16.5 z"/>
 </g>
 <g id="slider-normal-topleft">
-<path style="opacity:.23" d="m 37,590 c -6.648,0 -12,5.352 -12,12 h 12 z"/>
+<path style="fill:#181818" d="m 37,590 c -6.648,0 -12,5.352 -12,12 h 12 z"/>
 <path style="fill:#282828" d="m 37,596 c -3.324,0 -6,2.676 -6,6 h 6 z"/>
 </g>
 <use width="100%" height="100%" xlink:href="#slider-normal-left" id="slider-normal-right" transform="matrix(-1,0,0,1,74,0)"/>
@@ -842,11 +842,11 @@
 <use width="100%" height="100%" xlink:href="#slider-normal-topleft" id="slider-normal-bottomleft" transform="matrix(1,0,0,-1,0,1220.5003)"/>
 <use width="100%" height="100%" xlink:href="#slider-normal-topleft" id="slider-normal-bottomright" transform="rotate(-180,37,610.25015)"/>
 <g id="slider-toggled-left" transform="translate(28)">
-<path style="opacity:.23" d="m 25,602 v 16.4063 0.094 h 12 v -16.5 z"/>
+<path style="fill:#181818" d="m 25,602 v 16.4063 0.094 h 12 v -16.5 z"/>
 <path style="fill:#15539e" d="m 31,602 v 16.4063 0.094 h 6 v -16.5 z"/>
 </g>
 <g id="slider-toggled-topleft" transform="translate(28)">
-<path style="opacity:.23" d="m 37,590 c -6.648,0 -12,5.352 -12,12 h 12 z"/>
+<path style="fill:#181818" d="m 37,590 c -6.648,0 -12,5.352 -12,12 h 12 z"/>
 <path style="fill:#15539e" d="m 37,596 c -3.324,0 -6,2.676 -6,6 h 6 z"/>
 </g>
 <use width="100%" height="100%" xlink:href="#slider-toggled-left" id="slider-toggled-right" transform="matrix(-1,0,0,1,130,0)"/>
@@ -854,19 +854,19 @@
 <use width="100%" height="100%" xlink:href="#slider-toggled-topleft" id="slider-toggled-bottomleft" transform="matrix(1,0,0,-1,0,1220.5003)"/>
 <use width="100%" height="100%" xlink:href="#slider-toggled-topleft" id="slider-toggled-bottomright" transform="rotate(-180,65,610.25015)"/>
 <g id="progress-pattern-normal-left" transform="translate(3,-477.5003)">
-<path style="opacity:.23" d="m 25,602 v 16.4063 0.094 h 12 v -16.5 z"/>
+<path style="fill:#181818" d="m 25,602 v 16.4063 0.094 h 12 v -16.5 z"/>
 <path style="fill:#15539e" d="m 31,602 v 16.4063 0.094 h 6 v -16.5 z"/>
 </g>
 <g id="progress-pattern-normal-topleft" transform="translate(3,-477.5003)">
-<path style="opacity:.23" d="m 37,590 c -6.648,0 -12,5.352 -12,12 h 12 z"/>
+<path style="fill:#181818" d="m 37,590 c -6.648,0 -12,5.352 -12,12 h 12 z"/>
 <path style="fill:#15539e" d="m 37,596 c -3.324,0 -6,2.676 -6,6 h 6 z"/>
 </g>
 <g id="progress-normal-left" transform="translate(55,-477.50015)">
-<path style="opacity:.23" d="m 25,602 v 16.4063 0.094 h 12 v -16.5 z"/>
+<path style="fill:#181818" d="m 25,602 v 16.4063 0.094 h 12 v -16.5 z"/>
 <path style="fill:#282828" d="m 31,602 v 16.4063 0.094 h 6 v -16.5 z"/>
 </g>
 <g id="progress-normal-topleft" transform="translate(55,-477.50015)">
-<path style="opacity:.23" d="m 37,590 c -6.648,0 -12,5.352 -12,12 h 12 z"/>
+<path style="fill:#181818" d="m 37,590 c -6.648,0 -12,5.352 -12,12 h 12 z"/>
 <path style="fill:#282828" d="m 37,596 c -3.324,0 -6,2.676 -6,6 h 6 z"/>
 </g>
 <use width="100%" height="100%" xlink:href="#progress-pattern-normal-left" id="progress-pattern-normal-top" transform="rotate(90,48.25,132.75)"/>
