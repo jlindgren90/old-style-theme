@@ -97,7 +97,7 @@ style "base"
       gradient_shades = {1.0, 0.9, 0.9, 0.8}
       menustyle = 0
       roundness = 2
-      trough_shades = {0.4, 0.6}
+      trough_shades = {0.6, 0.7}
    }
 }
 
