@@ -33,8 +33,8 @@ toolbutton_style=1
 [GeneralColors]
 dark.color=#181818
 highlight.color=#184d8d
-alt.base.color=#202020
-base.color=#282828
+base.color=#202020
+alt.base.color=#282828
 button.color=#383838
 window.color=#383838
 mid.color=#505050
