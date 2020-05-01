@@ -948,8 +948,6 @@
 <use xlink:href="#highlight-color" style="opacity:.3" id="menubaritem-toggled-bottomleft"/>
 <use xlink:href="#highlight-color" style="opacity:.3" id="menubaritem-toggled-bottomright"/>
 
-<use xlink:href="#gray5-color" id="splitter-grip-normal"/>
-
 <use xlink:href="#gray5-color" id="floating-tab-normal"/>
 
 <use xlink:href="#gray3-color" id="floating-tab-normal-left"/>
@@ -1056,5 +1054,11 @@
 <use xlink:href="#mdi-restore-normal" style="opacity:.3" id="mdi-restore-disabled"/>
 <use xlink:href="#mdi-minimize-normal" style="opacity:.3" id="mdi-minimize-disabled"/>
 <use xlink:href="#mdi-menu-normal" style="opacity:.3" id="mdi-menu-disabled"/>
+
+<g id="splitter-grip-normal">
+<rect style="fill:none" x="140" y="700" width="5" height="5"/>
+<rect style="fill:#181818" x="141" y="700" width="1" height="5"/>
+<rect style="fill:#181818" x="143" y="700" width="1" height="5"/>
+</g>
 
 </svg>

@@ -223,7 +223,7 @@ text.margin.top=1
 text.margin.bottom=1
 
 [Splitter]
-indicator.size=32
+indicator.size=16
 
 [Scrollbar]
 inherits=PanelButtonCommand
