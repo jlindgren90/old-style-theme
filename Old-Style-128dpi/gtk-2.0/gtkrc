@@ -1,6 +1,7 @@
 gtk-auto-mnemonics = 1
 
-gtk_color_scheme = "darker:#202020"
+gtk_color_scheme = "darkest:#202020"
+gtk_color_scheme = "darker:#282828"
 gtk_color_scheme = "dark:#383838"
 gtk_color_scheme = "blue:#15539e"
 gtk_color_scheme = "bright:#e0e0e0"
@@ -97,8 +98,15 @@ style "base"
       gradient_shades = {1.0, 0.9, 0.9, 0.8}
       menustyle = 0
       roundness = 2
-      trough_shades = {0.4, 0.6}
+      trough_shades = {0.5, 0.7}
    }
+}
+
+style "view" = "base"
+{
+   base[ACTIVE] = mix (0.5, @blue, @darkest)
+   base[NORMAL] = @darkest
+   base[PRELIGHT] = @darkest
 }
 
 style "colored" = "base"
@@ -119,6 +127,7 @@ style "tooltip" = "base"
 }
 
 widget_class "*" style "base"
+widget_class "*View*" style "view"
 widget_class "*Menu*" style "colored"
 widget_class "*Button*" style "base"
 widget_class "*OptionMenu*" style "base"
