@@ -17,5 +17,5 @@ uninstall:
 	rm -rf $(DESTDIR)/usr/share/themes/Old-Style-128dpi
 	rm -rf $(DESTDIR)/usr/share/themes/Old-Style-light
 	rm -rf $(DESTDIR)/usr/share/themes/Old-Style-light-128dpi
-	rm -f $(DESTDIR)/usr/share/qt5ct/colors/Old-Style.conf
-	rm -f $(DESTDIR)/usr/share/qt5ct/qss/Old-Style.qss
+	rm -f $(DESTDIR)/usr/share/qt5ct/colors/Old-Style*.conf
+	rm -f $(DESTDIR)/usr/share/qt5ct/qss/Old-Style*.qss
