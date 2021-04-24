@@ -42,3 +42,9 @@ QHeaderView::section {
 QHeaderView::section:last {
   margin-right: -1px;
 }
+
+QDockWidget
+{
+  titlebar-close-icon: url("/usr/share/themes/Old-Style/images/close.svg");
+  titlebar-normal-icon: url("/usr/share/themes/Old-Style/images/undock.svg");
+}
