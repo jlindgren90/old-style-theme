@@ -58,7 +58,7 @@ style "light-base"
    GtkTreeView::odd-row-color = shade (0.8, @white)
    GtkTreeView::vertical-separator = 0
 
-   GtkWidget::cursor-aspect-ratio = 0.08
+   GtkWidget::cursor-aspect-ratio = 0.06
    GtkWidget::focus-line-width = 0
    GtkWidget::focus-padding = 0
 
