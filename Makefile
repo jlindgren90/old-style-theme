@@ -11,6 +11,8 @@ install:
 	find Old-Style-light-128dpi -type f -exec install -m644 \{\} $(DESTDIR)/usr/share/themes/\{\} \;
 	find qt5ct -type d -exec install -d $(DESTDIR)/usr/share/\{\} \;
 	find qt5ct -type f -exec install -m644 \{\} $(DESTDIR)/usr/share/\{\} \;
+	find qt6ct -type d -exec install -d $(DESTDIR)/usr/share/\{\} \;
+	find qt6ct -type f -exec install -m644 \{\} $(DESTDIR)/usr/share/\{\} \;
 
 uninstall:
 	rm -rf $(DESTDIR)/usr/share/themes/Old-Style
@@ -19,3 +21,5 @@ uninstall:
 	rm -rf $(DESTDIR)/usr/share/themes/Old-Style-light-128dpi
 	rm -f $(DESTDIR)/usr/share/qt5ct/colors/Old-Style*.conf
 	rm -f $(DESTDIR)/usr/share/qt5ct/qss/Old-Style*.qss
+	rm -f $(DESTDIR)/usr/share/qt6ct/colors/Old-Style*.conf
+	rm -f $(DESTDIR)/usr/share/qt6ct/qss/Old-Style*.qss

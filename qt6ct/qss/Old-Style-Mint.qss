@@ -1,0 +1,50 @@
+QToolTip {
+  color: palette(text);
+  background: #343f28;
+  border: 1px solid palette(highlight);
+}
+
+QMenuBar, QToolBar {
+  border: none;
+}
+
+QMenuBar {
+  spacing: 0;
+}
+
+QMenuBar::item {
+  background: transparent;
+  padding-left: 6px;
+  padding-right: 6px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  margin: 0;
+}
+
+QMenuBar::item:selected {
+  color: palette(highlighted-text);
+  background: palette(highlight);
+}
+
+QMenu {
+  border: 1px solid #181818;
+}
+
+QHeaderView::section {
+  background: #303030;
+  border: 1px solid #181818;
+  border-top: 0;
+  margin-left: -1px;
+  padding-left: 4px;
+  padding-right: 4px;
+}
+
+QHeaderView::section:last {
+  margin-right: -1px;
+}
+
+QDockWidget
+{
+  titlebar-close-icon: url("/usr/share/themes/Old-Style/images/close.svg");
+  titlebar-normal-icon: url("/usr/share/themes/Old-Style/images/undock.svg");
+}
