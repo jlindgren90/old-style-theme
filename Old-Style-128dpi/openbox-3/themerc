@@ -10,19 +10,19 @@ menu.overlap: 0
 menu.border.color: #181818
 
 menu.title.bg: flat splitvertical gradient
-menu.title.bg.color: #134a8c
-menu.title.bg.colorTo: #114380
+menu.title.bg.color: #15539e
+menu.title.bg.colorTo: #124685
 menu.title.text.color: #f0f0f0
 
 menu.items.bg: flat solid
-menu.items.bg.color: #404040
+menu.items.bg.color: #303030
 
 menu.items.text.color: #f0f0f0
-menu.items.disabled.text.color: #606060
+menu.items.disabled.text.color: #808080
 
 menu.items.active.bg: flat splitvertical gradient
-menu.items.active.bg.color: #134a8c
-menu.items.active.bg.colorTo: #114380
+menu.items.active.bg.color: #15539e
+menu.items.active.bg.colorTo: #124685
 menu.items.active.text.color: #f0f0f0
 
 !!Window
@@ -37,19 +37,19 @@ window.*.label.text.color: #f0f0f0
 
 window.*.button.*.bg: parentrelative
 window.*.button.*.image.color: #f0f0f0
-window.*.button.disabled.image.color: #606060
+window.*.button.disabled.image.color: #808080
 
 window.*.handle.bg: flat solid
 window.*.grip.bg: parentrelative
 
 !!Active
 
-window.active.title.bg.color: #134a8c
-window.active.title.bg.colorTo: #114380
-window.active.handle.bg.color: #134a8c
+window.active.title.bg.color: #15539e
+window.active.title.bg.colorTo: #124685
+window.active.handle.bg.color: #15539e
 
 !!Inactive
 
-window.inactive.title.bg.color: #323232
-window.inactive.title.bg.colorTo: #2d2d2d
-window.inactive.handle.bg.color: #323232
+window.inactive.title.bg.color: #303030
+window.inactive.title.bg.colorTo: #282828
+window.inactive.handle.bg.color: #303030
