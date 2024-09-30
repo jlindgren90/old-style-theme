@@ -2,6 +2,13 @@
 
 border.width: 1
 border.color: #181818
+
+padding.width: 3
+padding.height: 2
+
+window.button.width: 16
+window.button.spacing: 3
+
 *.text.justify: left
 
 !!Menu
