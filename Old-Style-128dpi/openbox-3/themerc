@@ -2,12 +2,8 @@
 
 border.width: 1
 border.color: #181818
-
-padding.width: 4
+padding.width: 2
 padding.height: 2
-
-window.button.width: 22
-window.button.spacing: 4
 
 *.text.justify: left
 
@@ -34,6 +30,8 @@ menu.items.active.text.color: #f0f0f0
 
 !!Window
 
+window.button.width: 26
+window.button.spacing: 2
 window.client.padding.width: 0
 window.client.padding.height: 0
 window.handle.width: 7
