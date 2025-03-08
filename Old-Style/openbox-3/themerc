@@ -2,7 +2,7 @@
 
 border.width: 1
 border.color: #181818
-padding.width: 1
+padding.width: 2
 padding.height: 2
 
 *.text.justify: left
@@ -34,6 +34,8 @@ window.button.width: 20
 window.button.spacing: 1
 window.client.padding.width: 0
 window.client.padding.height: 0
+window.titlebar.padding.width: 1
+window.titlebar.padding.height: 0
 window.handle.width: 5
 
 window.*.title.bg: flat splitvertical gradient

@@ -31,9 +31,11 @@ menu.items.active.text.color: #f0f0f0
 !!Window
 
 window.button.width: 26
-window.button.spacing: 2
+window.button.spacing: 1
 window.client.padding.width: 0
 window.client.padding.height: 0
+window.titlebar.padding.width: 1
+window.titlebar.padding.height: 0
 window.handle.width: 7
 
 window.*.title.bg: flat splitvertical gradient
