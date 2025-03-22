@@ -2,7 +2,9 @@ pkgname=old-style-theme
 pkgver=0.1
 pkgrel=1
 arch=('any')
-depends=('gtk-engine-murrine')
+optdepends=('gtk-engine-murrine: GTK 2 theme'
+            'qt5ct: Qt 5 theme'
+            'qt6ct: Qt 6 theme')
 
 package() {
     cd ..
